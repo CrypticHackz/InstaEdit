@@ -1,2 +1,2 @@
 # InstaEdit
-Edit Instagram Profile by command line
+Edit Instagram Profile From Termianl

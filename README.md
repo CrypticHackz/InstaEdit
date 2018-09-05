@@ -1,2 +1,3 @@
 # InstaEdit
-Edit Instagram Profile From Termianl
+Edit Instagram Profile From Terminal
+:)
